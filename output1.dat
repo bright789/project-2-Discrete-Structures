@@ -1,0 +1,4 @@
+A={123,345,543}
+B={Smith,abcd,codecodecode,john}
+AxB={(123,Smith),(123,abcd),(123,codecodecode),(123,john),(345,Smith),(345,abcd),(345,codecodecode),(345,john),(543,Smith),(543,abcd),(543,codecodecode),(543,john)}
+There are 12 elements in the Cartesian Product.

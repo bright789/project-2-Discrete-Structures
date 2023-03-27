@@ -3,7 +3,7 @@
 #include <iostream>
 #include <algorithm>
 
-void Set::readFromFile(const std::string &filename)
+void Set::readFromFile(const std::string filename)
 {
     std::ifstream in(filename);
     std::string str;
